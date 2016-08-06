@@ -1,12 +1,12 @@
 [user]
-	name = Shawn Sorichetti
-	email = ssoriche@gmail.com
+	name = Weylin
+	email = weylin@users.noreply.github.com
 [github]
-        user = ssoriche
+        user = weylin
 [core]
-	excludesfile = /Users/ssoriche/.gitignore
+	excludesfile = ~/.gitignore
 	ignorecase = false
-        editor = /Users/ssoriche/Applications/MacVim.app/Contents/MacOS/Vim
+#        editor = /Users/ssoriche/Applications/MacVim.app/Contents/MacOS/Vim
 	quotepath = false
 [color]
 	status = auto
